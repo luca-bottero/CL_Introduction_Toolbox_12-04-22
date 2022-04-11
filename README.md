@@ -1,2 +1,2 @@
-# CL_Introduction_Toolbox_12-04-22
+# Continual Learning - la (necessaria) rivoluzione del continual learning
 Materials on "Introduction to Continual Learning"
